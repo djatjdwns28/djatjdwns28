@@ -1,5 +1,8 @@
+<div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SeongJun's%20GitHub&fontSize=90)
 
+</div>
 
 ### Hello, My Name is SeongJun Uhm 👋
 
