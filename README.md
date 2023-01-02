@@ -32,7 +32,7 @@
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djatjdwns28&show_icons=true&theme=prussian&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djatjdwns28&layout=compact&theme=city_lights&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djatjdwns28)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
   
