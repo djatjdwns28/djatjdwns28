@@ -32,7 +32,9 @@
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djatjdwns28&show_icons=true&theme=prussian&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djatjdwns28)](https://github.com/djatjdwns28/djatjdwns28)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 <h1>💻 Doing Study</h1>
 <ul>
   <li>Java Script</li>
