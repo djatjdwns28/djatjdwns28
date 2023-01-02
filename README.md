@@ -35,9 +35,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djatjdwns28&theme=city_lights)
   
   </div>
-  
+
 <h1>💻 Doing Study</h1>
-<ul>gitlab
+<ul>
   <li>Java Script</li>
   <li>Type Script</li>
   <li>Vue.js</li>
