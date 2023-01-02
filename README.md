@@ -37,7 +37,11 @@
   </div>
   
 <h1>💻 Doing Study</h1>
-<ul>
+<ul>gitlab
+  <li>Java Script</li>
+  <li>Type Script</li>
+  <li>Vue.js</li>
+  <li>React Native</li>
   <li>Code Refactoring</li>
   <li>Design Pattern</li>
   <li>SQL Tuning</li>
