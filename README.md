@@ -32,10 +32,7 @@
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djatjdwns28&show_icons=true&theme=prussian&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djatjdwns28)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="https://github.com/djatjdwns28"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djatjdwns28&layout=compact&theme=nord&hide_border=true" /></a>
-  </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djatjdwns28)](https://github.com/djatjdwns28/djatjdwns28)
 <h1>💻 Doing Study</h1>
 <ul>
   <li>Java Script</li>
