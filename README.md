@@ -42,8 +42,6 @@
   <li>Vue.js</li>
   <li>React Native</li>
   <li>Code Refactoring</li>
-  <li>Design Pattern</li>
-  <li>SQL Tuning</li>
 </ul>
 <!--
 **djatjdwns28/djatjdwns28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
